@@ -220,7 +220,7 @@ void sha256(unsigned char * s, int bitLen, unsigned char* cont){
 	// 1   2 | 5   6
 	// 2   3 | 6   5
 	// 3   0 | 7   4
-	
+	//I just wanted to come up with a way of doing lines 154 to 157 in a single line for fun.
 
 
 	//sets any extra bits in the bytes to 0
